@@ -61,4 +61,4 @@ I love building AI & Web projects just for fun and learning 🚀
 
 ### 📈 GitHub Activity
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Aaj2004-git&theme=radical&hide_border=false)  
-![GitHub Contributions](https://activity-graph.herokuapp.com/graph?username=Aaj2004-git&theme=react-dark&hide_border=false&custom_title=GitHub%20Commits%20in%202025)
+
