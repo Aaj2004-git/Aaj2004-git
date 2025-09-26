@@ -8,7 +8,7 @@
 - [AI SaaS Platform - Imaginify](https://github.com/Aaj2004-git/AI_SaaS_Platform_Imaginify.git) – AI-powered SaaS platform  
 - [Disease Prediction Web Application](https://github.com/Aaj2004-git/Disease-Prediction-Web-Application.git) – Predicts health risks using AI & Machine Learning 🩺  
 - [3D Portfolio Website](https://github.com/Aaj2004-git/New_temp.git) – Responsive full-stack website  
-- [Nike E-commerce Platform]([https://github.com/Aaj2004-git/Nike-Ecommerce-App.git]) – Sleek. Modular. Scalable E-commerce website
+- [Nike E-commerce Platform](https://github.com/Aaj2004-git/Nike-Ecommerce-App.git) – Sleek. Modular. Scalable E-commerce website
   
 ---
 
